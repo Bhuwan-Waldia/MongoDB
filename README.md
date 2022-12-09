@@ -11,9 +11,15 @@ MongoDB is not a Relational Database Management System (RDBMS). It's called a "N
 
 
 Advantages of MongoDB
+
 MongoDB stores data as JSON based document that does not enforce the schema. It allows us to store hierarchical data in a document. This makes it easy to store and retrieve data in an efficient manner.
+
 It is easy to scale up or down as per the requirement since it is a document based database. MongoDB also allows us to split data across multiple servers.
+
 MongoDB provides rich features like indexing, aggregation, file store, etc.
+
 MongoDB performs fast with huge data.
+
 MongoDB provides drivers to store and fetch data from different applications developed in different technologies such as C#, Java, Python, Node.js, etc.
+
 MongoDB provides tools to manage MongoDB databases.
