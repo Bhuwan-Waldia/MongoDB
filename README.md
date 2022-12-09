@@ -1,4 +1,22 @@
 # MongoDB
+
+When dealing with data, there are two types of data as we know – (i) structured data and (ii) unstructured data. Structured data is usually stored in a tabular form whereas unstructured data is not. To manage huge sets of unstructured data like log or IoT data, a NoSQL database is used.
+
+What is MongoDB ?
+
+MongoDB is an open-source NoSQL database written in C++ language. It uses JSON-like documents with optional schemas.
+
+It provides easy scalability and is a cross-platform, document-oriented database.
+
+MongoDB works on the concept of Collection and Document.
+
+It combines the ability to scale out with features such as secondary indexes, range queries, sorting, aggregations, and geospatial indexes.
+
+
+
+
+
+
 MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas
 
 
